@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">Notify Dump</string>
+	<string name="main_activity_text">The notification service is now running. Broadcast an intent from ADB to get a list of active notifications.</string>
+	<string name="permissions_request_title">Notification Access</string>
+	<string name="permissions_request_text">Please enable notification access for Notify Dump to allow it to read notifications.</string>
+	<string name="permissions_request_ok">Okay</string>
+</resources>
